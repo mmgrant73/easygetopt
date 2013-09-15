@@ -1,0 +1,3 @@
+#!/bin/bash
+# starting the unsecure.py
+python ./flagcreator.py
